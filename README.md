@@ -1,7 +1,7 @@
 # <i>Abronia</i>
 
 <i>Abronia</i> is a genus of lizards in the family Anguidae that are found throughout Mexico and Central America. They are medium-sized to fairly large lizards that have prehensile tails that aid in tree climbing. They are typically found in forests and woodlands in the highlands.
-These lizards are also incredibly [beautiful](https://www.inaturalist.org/taxa/32012-Abronia-graminea/browse_photos?photo_license=any&term_id=17&term_value_id=18). One of the many things on this Earth that may seem mythical and impossible until it appears in front of your eyes.<br />
+These lizards are also incredibly [beautiful](https://www.inaturalist.org/taxa/31997-Abronia/browse_photos). One of the many things on this Earth that may seem mythical and impossible until it appears in front of your eyes.<br />
 And you realize that this is real.<br />
 And you realize how lucky we all are.<br />
 To be alive and present in this moment.<br />
