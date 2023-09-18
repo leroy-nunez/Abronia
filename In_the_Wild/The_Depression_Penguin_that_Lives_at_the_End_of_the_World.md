@@ -1,4 +1,4 @@
-# The Depression Penguin at the End of the World
+# The Depression Penguin that Lives at the End of the World
 
 The Depression Penguin lives at the End of the World.<br />
 His home coordinates are, as follows:<br />
